@@ -1,0 +1,34 @@
+iMPACT Version: Oct 13 2013 08:43:40
+
+iMPACT log file Started on Thu Nov 26 21:36:34 2020
+
+Preference Table
+Name                 Setting             
+StartupClock         Auto_Correction     
+AutoSignature        False               
+KeepSVF              False               
+ConcurrentMode       False               
+UseHighz             False               
+ConfigOnFailure      Stop                
+UserLevel            Novice              
+MessageLevel         Detailed            
+svfUseTime           false               
+SpiByteSwap          Auto_Correction     
+AutoInfer            false               
+SvfPlayDisplayComments false               
+Releasing all cable semaphores. Please wait.
+Reusing 78220113 key.
+Reusing FC220113 key.
+Reusing 79220113 key.
+Reusing FD220113 key.
+Reusing 7A220113 key.
+Reusing FE220113 key.
+Reusing 7B220113 key.
+Reusing FF220113 key.
+Reusing A0220113 key.
+Reusing 24220113 key.
+Reusing A1220113 key.
+Reusing 25220113 key.
+Done.
+Releasing all cable semaphores. Please wait.
+Done.
